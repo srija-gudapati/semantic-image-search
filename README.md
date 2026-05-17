@@ -2,6 +2,9 @@
 
 AI-powered semantic image search engine using vector embeddings and multimodal retrieval.
 
+<img width="1440" height="779" alt="demo" src="https://github.com/user-attachments/assets/dc882ecc-d81d-495c-92c5-a1ce22457b5e" />
+
+
 ## Overview
 
 This project enables semantic image retrieval using embedding-based similarity search. Instead of searching images by filename or tags, users can search using natural language descriptions and retrieve visually relevant images.
